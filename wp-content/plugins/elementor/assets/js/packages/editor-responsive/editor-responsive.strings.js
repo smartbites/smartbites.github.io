@@ -1,1 +1,0 @@
-__('Desktop','elementor');__('Switch Device','elementor');__('%s (%dpx and up)','elementor');__('%s (up to %dpx)','elementor');
