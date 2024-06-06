@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>AI Guides &#38; Prompt Engineering</description>
-	<lastBuildDate>Wed, 05 Jun 2024 17:15:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Jun 2024 23:19:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 </channel>
 </rss>
