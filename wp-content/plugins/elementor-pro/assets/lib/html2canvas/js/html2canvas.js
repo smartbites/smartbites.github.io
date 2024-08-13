@@ -1,6 +1,6 @@
 /*!
- * html2canvas 1.0.0-rc.5 <https://html2canvas.hertzen.com>
- * Copyright (c) 2020 Niklas von Hertzen <https://hertzen.com>
+ * html2canvas 1.0.0-rc.5 <html2canvas.hertzen.com>
+ * Copyright (c) 2020 Niklas von Hertzen <hertzen.com>
  * Released under MIT License
  */
 (function (global, factory) {
@@ -117,7 +117,7 @@
 
 	/*
      * css-line-break 1.1.1 <https://github.com/niklasvh/css-line-break#readme>
-     * Copyright (c) 2019 Niklas von Hertzen <https://hertzen.com>
+     * Copyright (c) 2019 Niklas von Hertzen <hertzen.com>
      * Released under MIT License
      */
 	var toCodePoints = function (str) {
