@@ -1690,8 +1690,8 @@ const SELF_CLOSING_TAGS = new Set(['area', 'base', 'br', 'col', 'command', 'embe
  * Boolean attributes are attributes whose presence as being assigned is
  * meaningful, even if only empty.
  *
- * See: html.spec.whatwg.org/multipage/common-microsyntaxes.html#boolean-attributes
- * Extracted from: html.spec.whatwg.org/multipage/indices.html#attributes-3
+ * See: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#boolean-attributes
+ * Extracted from: https://html.spec.whatwg.org/multipage/indices.html#attributes-3
  *
  * Object.keys( [ ...document.querySelectorAll( '#attributes-1 > tbody > tr' ) ]
  *     .filter( ( tr ) => tr.lastChild.textContent.indexOf( 'Boolean attribute' ) !== -1 )
@@ -1708,8 +1708,8 @@ const BOOLEAN_ATTRIBUTES = new Set(['allowfullscreen', 'allowpaymentrequest', 'a
  * Like boolean attributes, these are meaningful if specified, even if not of a
  * valid enumerated value.
  *
- * See: html.spec.whatwg.org/multipage/common-microsyntaxes.html#enumerated-attribute
- * Extracted from: html.spec.whatwg.org/multipage/indices.html#attributes-3
+ * See: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#enumerated-attribute
+ * Extracted from: https://html.spec.whatwg.org/multipage/indices.html#attributes-3
  *
  * Object.keys( [ ...document.querySelectorAll( '#attributes-1 > tbody > tr' ) ]
  *     .filter( ( tr ) => /^("(.+?)";?\s*)+/.test( tr.lastChild.textContent.trim() ) )
@@ -2203,7 +2203,7 @@ __webpack_require__.r(__webpack_exports__);
  * U+0020 SPACE, U+0022 ("), U+0027 ('), U+003E (>), U+002F (/), U+003D (=),
  * and noncharacters."
  *
- * @see html.spec.whatwg.org/multipage/syntax.html#attributes-2
+ * @see https://html.spec.whatwg.org/multipage/syntax.html#attributes-2
  *
  * @type {RegExp}
  */
@@ -45356,7 +45356,7 @@ const html = (0,_util_create_js__WEBPACK_IMPORTED_MODULE_0__.create)({
     wrap: null,
 
     // Legacy.
-    // See: html.spec.whatwg.org/#other-elements,-attributes-and-apis
+    // See: https://html.spec.whatwg.org/#other-elements,-attributes-and-apis
     align: null, // Several. Use CSS `text-align` instead,
     aLink: null, // `<body>`. Use CSS `a:active {color}` instead
     archive: _util_types_js__WEBPACK_IMPORTED_MODULE_2__.spaceSeparated, // `<object>`. List of URIs to archives

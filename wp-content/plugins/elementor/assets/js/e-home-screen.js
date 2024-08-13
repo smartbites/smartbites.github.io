@@ -5373,7 +5373,7 @@ function FocusTrap(props) {
     // Instead, we can look if the active element was restored on the BODY element.
     //
     // The whatwg spec defines how the browser should behave but does not explicitly mention any events:
-    // html.spec.whatwg.org/multipage/interaction.html#focus-fixup-rule.
+    // https://html.spec.whatwg.org/multipage/interaction.html#focus-fixup-rule.
     const interval = setInterval(() => {
       if (doc.activeElement && doc.activeElement.tagName === 'BODY') {
         contain();
@@ -11356,7 +11356,7 @@ const FilledInput = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef(f
   /**
    * This prop helps users to fill forms faster, especially on mobile devices.
    * The name can be confusing, as it's more like an autofill.
-   * You can learn more about it [following the specification](html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
+   * You can learn more about it [following the specification](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
    */
   autoComplete: (prop_types__WEBPACK_IMPORTED_MODULE_11___default().string),
   /**
@@ -13212,7 +13212,7 @@ const Input = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef(functio
   /**
    * This prop helps users to fill forms faster, especially on mobile devices.
    * The name can be confusing, as it's more like an autofill.
-   * You can learn more about it [following the specification](html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
+   * You can learn more about it [following the specification](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
    */
   autoComplete: (prop_types__WEBPACK_IMPORTED_MODULE_11___default().string),
   /**
@@ -13953,7 +13953,7 @@ const InputBase = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef(fun
   /**
    * This prop helps users to fill forms faster, especially on mobile devices.
    * The name can be confusing, as it's more like an autofill.
-   * You can learn more about it [following the specification](html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
+   * You can learn more about it [following the specification](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
    */
   autoComplete: (prop_types__WEBPACK_IMPORTED_MODULE_19___default().string),
   /**
@@ -18059,7 +18059,7 @@ const OutlinedInput = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef
   /**
    * This prop helps users to fill forms faster, especially on mobile devices.
    * The name can be confusing, as it's more like an autofill.
-   * You can learn more about it [following the specification](html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
+   * You can learn more about it [following the specification](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
    */
   autoComplete: (prop_types__WEBPACK_IMPORTED_MODULE_13___default().string),
   /**
@@ -20652,7 +20652,7 @@ const TextField = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef(fun
   /**
    * This prop helps users to fill forms faster, especially on mobile devices.
    * The name can be confusing, as it's more like an autofill.
-   * You can learn more about it [following the specification](html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
+   * You can learn more about it [following the specification](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill).
    */
   autoComplete: (prop_types__WEBPACK_IMPORTED_MODULE_17___default().string),
   /**

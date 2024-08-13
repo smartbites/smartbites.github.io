@@ -42397,7 +42397,7 @@ const html = (0,_util_create_js__WEBPACK_IMPORTED_MODULE_0__.create)({
     wrap: null,
 
     // Legacy.
-    // See: html.spec.whatwg.org/#other-elements,-attributes-and-apis
+    // See: https://html.spec.whatwg.org/#other-elements,-attributes-and-apis
     align: null, // Several. Use CSS `text-align` instead,
     aLink: null, // `<body>`. Use CSS `a:active {color}` instead
     archive: _util_types_js__WEBPACK_IMPORTED_MODULE_2__.spaceSeparated, // `<object>`. List of URIs to archives
