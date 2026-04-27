@@ -35,7 +35,7 @@ function TakeawayPanel({
         text={protocol.text}
         ctaLink={protocol.ctaLink}
         ctaText={protocol.ctaText}
-        fallbackImage="/assets/638919d9-c2dd-4767-85b1-3e84160bf256.jpeg"
+        fallbackImage="/assets/smartbites_foodtruck.webp"
         className="sb-animate-enter"
         style={{ transitionDelay: '280ms' }}
       />

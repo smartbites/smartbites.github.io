@@ -6,8 +6,8 @@ const policiesMeta = {
   description: "Smart Bites | Policies",
   keywords: "",
   category: "Ethics",
-  featuredImage: "/assets/638919d9-c2dd-4767-85b1-3e84160bf256.jpeg",
-  ogImage: "/assets/638919d9-c2dd-4767-85b1-3e84160bf256.jpeg",
+  featuredImage: "/assets/smartbites_foodtruck.webp",
+  ogImage: "/assets/smartbites_foodtruck.webp",
 };
 
 function PoliciesPageContent() {

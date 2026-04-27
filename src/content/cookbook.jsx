@@ -86,7 +86,7 @@ export default function CookbookContent() {
             decoding="async"
             width="1024"
             height="1024"
-            src="/assets/98347221-931b-4232-9144-2d759e5e5b24.webp"
+            src="/assets/ChatGPT Image Apr 27, 2026, 10_32_11 AM.webp"
             alt="Illustration representing the Changes Protocol recipe"
           />
         </figure>
@@ -268,7 +268,7 @@ export default function CookbookContent() {
             decoding="async"
             width="1024"
             height="1024"
-            src="/assets/e162ec20-ef88-448b-817a-8da7d775f438.webp"
+            src="/assets/ChatGPT Image Apr 27, 2026, 10_33_36 AM.webp"
             alt="Illustration representing additional Changes Protocol resources"
           />
         </figure>
@@ -358,7 +358,7 @@ export default function CookbookContent() {
             decoding="async"
             width="1024"
             height="585"
-            src="/assets/93f8a97a-b1c3-4119-bb4a-863258f5ddea.webp"
+            src="/assets/ChatGPT Image Apr 27, 2026, 10_28_47 AM.webp"
             alt="Illustration representing the conclusion of the Changes Protocol Cookbook"
           />
         </figure>

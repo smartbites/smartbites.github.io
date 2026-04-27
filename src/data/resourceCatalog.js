@@ -71,7 +71,7 @@
     title: 'Presentations',
     summary: 'Craft narrative, visual, and persuasive presentations with AI-assisted structure.',
     collections: ['guides'],
-    image: '/assets/30cb964b-20ec-4152-9921-8375e73bbaf0.jpeg',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_24_17 AM.webp',
     order: 7,
   },
   {
@@ -80,7 +80,7 @@
     title: 'Case Studies',
     summary: 'Build evidence-rich case studies and replicate proven change practices.',
     collections: ['guides'],
-    image: '/assets/17d8410d-89e3-41e0-858e-78460535f33b.jpeg',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_25_35 AM.webp',
     order: 8,
   },
   {

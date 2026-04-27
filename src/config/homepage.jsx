@@ -1,10 +1,10 @@
-const middleDot = String.fromCharCode(183);
+﻿const middleDot = String.fromCharCode(183);
 
 export const featureCards = [
   {
     kicker: '6 Flavours',
     title: 'The Ingredients for Healthy Changes.',
-    image: '/assets/85096fa6-d20e-4206-a865-aad35da09dc7.webp',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_40_35 AM.webp',
     body: (
       <ol>
         <li>Freedom 🕊️</li>
@@ -19,7 +19,7 @@ export const featureCards = [
   {
     kicker: '3 Steps',
     title: 'Becoming an Agent of Positive and Sustainable Change is Easy! ☺️',
-    image: '/assets/ef33fdcc-f8e2-44be-a683-a7130d73b729-768x768.jpeg',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_44_21 AM.webp',
     body: (
       <>
         <p>Our Delicious 3-Step Recipe:</p>
@@ -53,8 +53,8 @@ export const featureCards = [
 
 export const heroSection = {
   kicker: 'Bite-Sized Guides',
-  image: '/assets/638919d9-c2dd-4767-85b1-3e84160bf256.jpeg',
-  fallbackImage: '/assets/638919d9-c2dd-4767-85b1-3e84160bf256.jpeg',
+  image: '/assets/smartbites_foodtruck.webp',
+  fallbackImage: '/assets/smartbites_foodtruck.webp',
   takeawayTo: '#takeaway',
 };
 
@@ -77,12 +77,12 @@ export const recipeResources = [
   {
     title: 'Presentations',
     to: '/presentations/',
-    image: '/assets/30cb964b-20ec-4152-9921-8375e73bbaf0.jpeg',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_24_17 AM.webp',
   },
   {
     title: 'Case Studies',
     to: '/case-studies/',
-    image: '/assets/17d8410d-89e3-41e0-858e-78460535f33b.jpeg',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_25_35 AM.webp',
   },
   {
     title: 'Newsletters',
@@ -123,7 +123,7 @@ export const takeawayPanel = {
     'Our Guides Democratize Change Management, Making it Accessible to People from All Walks of Life. We Offer a Formal Process for AI-Augmented Governance, Enabling Decentralized Decision-Making and Data-empowered Insights.',
   starterTitle: '🍴Starters',
   protocol: {
-    image: '/assets/521186e3-44d3-47f3-b677-7a70e5fb3847.webp',
+    image: '/assets/ChatGPT Image Apr 27, 2026, 10_30_38 AM.webp',
     title: 'Changes Protocol',
     text: 'About AI-Empowered Governance',
     ctaLink: '/cookbook/',

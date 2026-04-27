@@ -36,8 +36,8 @@ export const routeContentMap = Object.freeze({
     keywords:
       'AI-assisted case study creation, case study writing, compelling case studies, case study content, content marketing guide, AI writing tools, case study creation process, case study structure, content marketing tips, case study optimization, case study SEO, case study research, case study drafting, case study refinement, AI co-authoring, project management for content marketing, case study design, case study planning, case study editing, case study promotion, content marketing strategy',
     category: 'AI Guides',
-    featuredImage: '/assets/17d8410d-89e3-41e0-858e-78460535f33b.jpeg',
-    ogImage: '/assets/17d8410d-89e3-41e0-858e-78460535f33b.jpeg',
+    featuredImage: '/assets/ChatGPT Image Apr 27, 2026, 10_25_35 AM.webp',
+    ogImage: '/assets/ChatGPT Image Apr 27, 2026, 10_25_35 AM.webp',
   },
   cookbook: {
     Content: CookbookContent,
@@ -64,8 +64,8 @@ export const routeContentMap = Object.freeze({
     keywords:
       'AI-assisted presentation creation, presentation design, captivating presentations, presentation content, communication strategy guide, AI presentation tools, presentation creation process, presentation structure, storytelling tips, presentation optimization, presentation best practices, presentation research, presentation drafting, presentation refinement, AI co-authoring, project management for presentations, presentation planning, presentation editing, audience engagement, visual storytelling, data visualization',
     category: 'AI Guides',
-    featuredImage: '/assets/30cb964b-20ec-4152-9921-8375e73bbaf0.jpeg',
-    ogImage: '/assets/30cb964b-20ec-4152-9921-8375e73bbaf0.jpeg',
+    featuredImage: '/assets/ChatGPT Image Apr 27, 2026, 10_24_17 AM.webp',
+    ogImage: '/assets/ChatGPT Image Apr 27, 2026, 10_24_17 AM.webp',
   },
   proposals: {
     Content: ProposalsContent,
@@ -102,9 +102,9 @@ export const routeContentMap = Object.freeze({
       'ADKAR Model, Change Management, Training Simulation, Organizational Change, Collaborative Change, Sustainable Transformation, Awareness, Desire, Knowledge, Ability, Reinforcement, Chef Change Agents',
     category: 'AI Guides',
     featuredImage:
-      '/assets/DALL·E-2024-08-12-22.21.49-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details-similar-to-the-previous-one.-The-restaurant-is-branded-Smart-Bites-.webp',
+      '/assets/ChatGPT Image Apr 27, 2026, 11_01_59 AM.webp',
     ogImage:
-      '/assets/DALL·E-2024-08-12-22.21.49-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details-similar-to-the-previous-one.-The-restaurant-is-branded-Smart-Bites-.webp',
+      '/assets/ChatGPT Image Apr 27, 2026, 11_01_59 AM.webp',
   },
   'training-simulation-kotters-8-step-change-model': {
     Content: TrainingSimulationKotters8StepChangeModelContent,
@@ -114,9 +114,9 @@ export const routeContentMap = Object.freeze({
       "Kotter's 8-Step Model, Change Management, Training Simulation, Organizational Change, Smart Bites, Inclusive Leadership, Collaborative Change, Sustainable Transformation, Business Strategy, Change Agents",
     category: 'AI Guides',
     featuredImage:
-      '/assets/DALL·E-2024-08-12-21.20.24-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-displayin.webp',
+      '/assets/ChatGPT Image Apr 27, 2026, 11_00_47 AM.webp',
     ogImage:
-      '/assets/DALL·E-2024-08-12-21.20.24-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-displayin.webp',
+      '/assets/ChatGPT Image Apr 27, 2026, 11_00_47 AM.webp',
   },
   'training-simulation-lewins-model': {
     Content: TrainingSimulationLewinsModelContent,
@@ -125,8 +125,8 @@ export const routeContentMap = Object.freeze({
       "Lewin's Change Management Model, Unfreeze Change Refreeze, Training Simulation, Organizational Change, Sustainable Change, Collaborative Change, Change Management Strategies, Chef Change Agents, Inclusive Transformation, Business Growth",
     category: 'AI Guides',
     featuredImage:
-      '/assets/DALL·E-2024-08-12-22.33.41-Create-a-photorealistic-miniature-restaurant-scene-that-is-distinct-from-previous-ones.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-di.webp',
+      '/assets/ChatGPT Image Apr 27, 2026, 11_02_53 AM.webp',
     ogImage:
-      '/assets/DALL·E-2024-08-12-22.33.41-Create-a-photorealistic-miniature-restaurant-scene-that-is-distinct-from-previous-ones.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-di.webp',
+      '/assets/ChatGPT Image Apr 27, 2026, 11_02_53 AM.webp',
   },
 });
