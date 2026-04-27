@@ -4,21 +4,6 @@ export default function CookbookContent() {
       <header>
         <h1>Changes Protocol Cookbook</h1>
 
-        <figure>
-          <img
-            className="cookbook-content-image cookbook-logo-image"
-            decoding="async"
-            width="748"
-            height="790"
-            src="/assets/Changes_Logo.png"
-            alt="Changes Protocol logo"
-          />
-        </figure>
-
-        <p>
-          <strong>Welcome to the Changes Protocol Cookbook</strong>
-        </p>
-
         <p>
           The <em>Changes Protocol Cookbook</em> is a dynamic and evolving guide
           designed to help individuals and organizations navigate the

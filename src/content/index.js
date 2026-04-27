@@ -41,12 +41,13 @@ export const routeContentMap = Object.freeze({
   },
   cookbook: {
     Content: CookbookContent,
+    isArticle: false,
     browserTitle: 'About AI-Empowered Governance | Smart Bites',
     keywords:
       'AI-Amplified Governance, democratized change management, self-governance, AI-driven decision-making, ethical AI practices, inclusive governance, sustainable change management, AI tools for change, Stafford Beer, cybernetic principles, Smart Bites, regenerative practices, change management framework, interdisciplinary governance.',
     category: 'AI Guides',
-    featuredImage: '/assets/521186e3-44d3-47f3-b677-7a70e5fb3847.webp',
-    ogImage: '/assets/521186e3-44d3-47f3-b677-7a70e5fb3847.webp',
+    featuredImage: '/assets/Changes_Logo.png',
+    ogImage: '/assets/Changes_Logo.png',
   },
   newsletters: {
     Content: NewslettersContent,

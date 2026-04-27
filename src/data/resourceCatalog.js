@@ -43,7 +43,7 @@
     summary:
       'Reference recipes and practical workflows for policy, governance, and leadership work.',
     collections: ['guides'],
-    image: '/assets/521186e3-44d3-47f3-b677-7a70e5fb3847.webp',
+    image: '/assets/Changes_Logo.png',
     order: 4,
   },
   {
