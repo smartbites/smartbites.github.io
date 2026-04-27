@@ -1,0 +1,98 @@
+[
+    {
+        "id":  "index",
+        "path":  "/",
+        "title":  "Takeaway",
+    "description":  "Bite-Sized AI Guides for AI-Empowered Governance \u0026 Change Management | Simple Prompt Engineering Strategies for Professionals and Responsible World Citizens."
+    },
+    {
+        "id":  "training-simulation-lewins-model",
+        "path":  "/training-simulation-lewins-model/",
+        "title":  "Training Simulation: Lewin's Model",
+        "description":  "Explore the timeless Lewin\u0027s Change Management Model through our Training Simulation for Chef Change Agents. Learn how to navigate the stages of Unfreezing, Changing, and Refreezing to implement sustainable and inclusive change within any organization."
+    },
+    {
+        "id":  "training-simulation-kotters-8-step-change-model",
+        "path":  "/training-simulation-kotters-8-step-change-model/",
+        "title":  "Training Simulation: Kotter's Model",
+        "description":  "Explore \u0027Smart Bites\u0027 Training Simulation for Chef Change Agents, where we adapt Kotter\u0027s 8-Step Change Model to modern workplaces. Learn how to implement effective, sustainable change in organizations of all sizes through collaboration, inclusivity, and strategic vision."
+    },
+    {
+        "id":  "training-simulation-adkar-model",
+        "path":  "/training-simulation-adkar-model/",
+        "title":  "Training Simulation: ADKAR Model",
+        "description":  "Discover how the ADKAR Model can guide successful change in organizations of all sizes with our inclusive Training Simulation for Chef Change Agents. Learn how to foster Awareness, Desire, Knowledge, Ability, and Reinforcement to create sustainable transformation."
+    },
+    {
+        "id":  "research-papers",
+        "path":  "/research-papers/",
+        "title":  "Research Papers",
+        "description":  "By following this recipe and adapting it to your specific research needs, you\u0027ll be able to streamline your project management process and harness the power of AI to achieve your academic goals."
+    },
+    {
+        "id":  "reports",
+        "path":  "/reports/",
+        "title":  "Reports",
+        "description":  "Discover the secret ingredients for crafting reports that blend compelling data storytelling with AI-powered efficiency, leaving your audience hungry for more insights and action."
+    },
+    {
+        "id":  "proposals",
+        "path":  "/proposals/",
+        "title":  "Proposals",
+        "description":  "Uncover the secret ingredients for crafting proposals that blend persuasive writing with AI-powered strategy, leaving your clients craving to sign on the dotted line."
+    },
+    {
+        "id":  "policies",
+        "path":  "/policies/",
+        "title":  "Policies",
+        "description":  "Smart Bites | Policies"
+    },
+    {
+        "id":  "presentations",
+        "path":  "/presentations/",
+        "title":  "Presentations",
+        "description":  "Uncover the secret formula for crafting presentations that blend captivating storytelling with AI-powered ingenuity, leaving your audience craving for more."
+    },
+    {
+        "id":  "newsletters",
+        "path":  "/newsletters/",
+        "title":  "Newsletters",
+        "description":  "By following this recipe and adapting it to your specific newsletter needs, you\u0027ll be able to streamline your email marketing process and harness the power of AI to achieve your goals."
+    },
+    {
+        "id":  "guides",
+        "path":  "/guides/",
+        "title":  "AI Guides \u0026 Prompt Engineering",
+        "description":  "Prompt Engineering Strategies for Professionals and Responsible World Citizens."
+    },
+    {
+        "id":  "cookbook",
+        "path":  "/cookbook/",
+        "title":  "Changes Protocol Cookbook",
+        "description":  "The Changes Protocol Cookbook is a dynamic and iterative guide designed to empower individuals and organizations in navigating complex governance challenges."
+    },
+    {
+        "id":  "blog-posts",
+        "path":  "/blog-posts/",
+        "title":  "Blog Posts",
+        "description":  "By following this recipe and adapting it to your specific needs, you\u0027ll be able to streamline your blog post creation process and leverage the power of AI to achieve your content marketing goals."
+    },
+    {
+        "id":  "case-studies",
+        "path":  "/case-studies/",
+        "title":  "Case Studies",
+        "description":  "Discover the secret sauce to crafting mouthwatering case studies that blend real-world insights with AI-powered strategies, leaving your audience craving for more."
+    },
+    {
+        "id":  "articles",
+        "path":  "/articles/",
+        "title":  "Articles",
+        "description":  "Crafting Engaging and Informative Content with AI Assistance"
+    },
+    {
+        "id":  "category/training",
+        "path":  "/category/training/",
+        "title":  "Category: Training",
+        "description":  "Explore the timeless Lewin\u0027s Change Management Model through our Training Simulation for Chef Change Agents. Learn how to navigate the stages of Unfreezing, Changing, and Refreezing to implement sustainable and inclusive change within any organization."
+    }
+]
