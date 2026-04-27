@@ -58,7 +58,7 @@ export default function PageTemplate({ meta, Content, isArticle = true }) {
               <img
                 src={meta.featuredImage}
                 alt={meta.title || 'Smart Bites'}
-                className="sb-article-hero-image"
+                className="sb-article-hero-image sb-article-hero-image--cookbook"
               />
             </section>
           ) : null}
