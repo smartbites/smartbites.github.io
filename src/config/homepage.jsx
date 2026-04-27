@@ -1,4 +1,10 @@
-﻿const middleDot = String.fromCharCode(183);
+﻿import { routeContentMap } from '../content';
+const middleDot = String.fromCharCode(183);
+
+function resolveHomeResourceImage(slug, fallbackImage) {
+  const routeMeta = routeContentMap[slug];
+  return routeMeta?.featuredImage || fallbackImage;
+}
 
 export const featureCards = [
   {
@@ -100,20 +106,26 @@ export const chefResources = [
   {
     title: 'Training Simulation: Lewins Model',
     to: '/training-simulation-lewins-model/',
-    image:
+    image: resolveHomeResourceImage(
+      'training-simulation-lewins-model',
       '/assets/DALL' + middleDot + 'E-2024-08-12-22.33.41-Create-a-photorealistic-miniature-restaurant-scene-that-is-distinct-from-previous-ones.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-di.webp',
+    ),
   },
   {
     title: 'Training Simulation: ADKAR Model',
     to: '/training-simulation-adkar-model/',
-    image:
+    image: resolveHomeResourceImage(
+      'training-simulation-adkar-model',
       '/assets/DALL' + middleDot + 'E-2024-08-12-22.21.49-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details-similar-to-the-previous-one.-The-restaurant-is-branded-Smart-Bites-.webp',
+    ),
   },
   {
     title: "Training Simulation: Kotter's Model",
     to: '/training-simulation-kotters-8-step-change-model/',
-    image:
+    image: resolveHomeResourceImage(
+      'training-simulation-kotters-8-step-change-model',
       '/assets/DALL' + middleDot + 'E-2024-08-12-21.20.24-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-displayin.webp',
+    ),
   },
 ];
 

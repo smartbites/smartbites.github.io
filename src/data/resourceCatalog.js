@@ -1,4 +1,11 @@
-﻿export const resourceCatalog = [
+﻿import { routeContentMap } from '../content';
+
+function resolveCatalogImage(slug, fallbackImage) {
+  const routeMeta = routeContentMap[slug];
+  return routeMeta?.featuredImage || fallbackImage;
+}
+
+export const resourceCatalog = [
   {
     slug: 'training-simulation-lewins-model',
     to: '/training-simulation-lewins-model/',
@@ -6,10 +13,12 @@
     summary:
       "A recipe for navigating unfreezing, changing, and refreezing for sustainable change.",
     collections: ['guides', 'training'],
-    image:
+    image: resolveCatalogImage(
+      'training-simulation-lewins-model',
       '/assets/DALL' +
-      '\u00B7' +
-      'E-2024-08-12-22.33.41-Create-a-photorealistic-miniature-restaurant-scene-that-is-distinct-from-previous-ones.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-di.webp',
+        '\u00B7' +
+        'E-2024-08-12-22.33.41-Create-a-photorealistic-miniature-restaurant-scene-that-is-distinct-from-previous-ones.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-di.webp',
+    ),
     order: 1,
   },
   {
@@ -18,10 +27,12 @@
     title: "Training Simulation: Kotter's 8-Step Change Model",
     summary: 'A guided path through urgency, coalition building, and institutionalization.',
     collections: ['guides', 'training'],
-    image:
+    image: resolveCatalogImage(
+      'training-simulation-kotters-8-step-change-model',
       '/assets/DALL' +
-      '\u00B7' +
-      'E-2024-08-12-21.20.24-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-displayin.webp',
+        '\u00B7' +
+        'E-2024-08-12-21.20.24-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details.-The-restaurant-is-branded-Smart-Bites-with-a-visible-sign-displayin.webp',
+    ),
     order: 2,
   },
   {
@@ -30,10 +41,12 @@
     title: "Training Simulation: ADKAR Model",
     summary: 'A practical simulation for awareness, desire, knowledge, ability, and reinforcement.',
     collections: ['guides', 'training'],
-    image:
+    image: resolveCatalogImage(
+      'training-simulation-adkar-model',
       '/assets/DALL' +
-      '\u00B7' +
-      'E-2024-08-12-22.21.49-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details-similar-to-the-previous-one.-The-restaurant-is-branded-Smart-Bites-.webp',
+        '\u00B7' +
+        'E-2024-08-12-22.21.49-Create-a-photorealistic-miniature-restaurant-scene-with-a-focus-on-fine-details-similar-to-the-previous-one.-The-restaurant-is-branded-Smart-Bites-.webp',
+    ),
     order: 3,
   },
   {
