@@ -26,10 +26,8 @@ function TakeawayPanel({
       <div className="takeaway-panel__divider" />
 
       <header className="takeaway-panel__section-header">
-        <h3>{starterTitle}</h3>
+        <h3 className="resource-grid__heading">{starterTitle}</h3>
       </header>
-
-      <div className="takeaway-panel__divider" />
 
       <ProtocolCard
         image={protocol.image}

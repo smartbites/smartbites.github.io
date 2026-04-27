@@ -1,4 +1,4 @@
-﻿const middleDot = String.fromCharCode(183);
+const middleDot = String.fromCharCode(183);
 
 export const featureCards = [
   {
@@ -23,16 +23,28 @@ export const featureCards = [
     body: (
       <>
         <p>Our Delicious 3-Step Recipe:</p>
-        <ol>
-          <li>Choices (Appetizer)</li>
-          <li>Context</li>
-          <li>Format</li>
-          <li>Preparation (Main Course)</li>
-          <li>Resources</li>
-          <li>Draft</li>
-          <li>Delivery (Dessert)</li>
-          <li>Refinement</li>
-          <li>Content</li>
+        <ol className="feature-steps">
+          <li>
+            <strong>Choices (Appetizer)</strong>
+            <ul>
+              <li>Context</li>
+              <li>Format</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Preparation (Main Course)</strong>
+            <ul>
+              <li>Resources</li>
+              <li>Draft</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Delivery (Dessert)</strong>
+            <ul>
+              <li>Refinement</li>
+              <li>Content</li>
+            </ul>
+          </li>
         </ol>
       </>
     ),

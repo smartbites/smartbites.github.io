@@ -508,6 +508,25 @@ select {
   padding-left: 1.25rem;
 }
 
+.feature-steps {
+  padding-left: 1.2rem;
+}
+
+.feature-steps > li {
+  margin: 0 0 var(--sb-space-4);
+}
+
+.feature-steps > li > ol,
+.feature-steps > li > ul {
+  margin-top: var(--sb-space-2);
+  padding-left: 1.1rem;
+}
+
+.feature-steps > li > ol > li,
+.feature-steps > li > ul > li {
+  margin-bottom: var(--sb-space-1);
+}
+
 .takeaway-panel {
   padding: 34px 38px;
   background: rgba(0, 77, 84, 0.579);
@@ -544,13 +563,11 @@ select {
 }
 
 .takeaway-panel__section-header {
-  margin: 0;
+  margin: 0 0 var(--sb-space-5);
 }
 
 .takeaway-panel__section-header h3 {
   margin: 0;
-  color: #85ffae;
-  font-size: 1.75rem;
 }
 
 .takeaway-panel__footer-bars {
